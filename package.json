@@ -1,0 +1,16 @@
+{
+  "name": "desafio-mk",
+  "version": "1.0.0",
+  "description": "projeto de teste desafio",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Gleidson Berg",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^10.8.0",
+    "cypress-mailosaur": "^2.12.0",
+    "faker": "^6.6.6"
+  }
+}
